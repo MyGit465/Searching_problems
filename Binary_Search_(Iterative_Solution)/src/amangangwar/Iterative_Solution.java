@@ -26,8 +26,6 @@ public class Iterative_Solution {
 		  }
 		 System.out.println("Enter searching element :");
 		 int x=sc.nextInt();
-		  System.out.println(binary_search(arr, n,x));
-		 
+		  System.out.println(binary_search(arr, n,x));	 
 	}
-
 }
