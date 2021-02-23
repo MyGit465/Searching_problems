@@ -15,7 +15,7 @@ public class Iterative_Solution {
     	    		else
     	    			high=mid-1;
 //    	    		while(low<=high) {
-//    	    			if(arr[low]==x) {
+//    	     			if(arr[low]==x) {
 //    	    				return low;
 //    	    			}
 //    	    	     low++;
